@@ -15,7 +15,7 @@ By combining sequence-based methods (HMMER) with structural alignment (Foldseek/
 * `analysis/`: R/Python notebooks for the GLM and metric calculations.
 * `data/`: (Optional) Sample datasets or small input files.
 
-**Note:** The full dataset of 394 predicted structural models (PDBs) is available at Zenodo: [INSERT ZENODO DOI HERE].
+**Note:** The full dataset of 394 predicted structural models (PDBs) is available at Zenodo: 10.5281/zenodo.18616635.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
